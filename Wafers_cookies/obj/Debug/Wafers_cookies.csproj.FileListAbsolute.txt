@@ -1,0 +1,6 @@
+c:\users\i.shvykin\documents\visual studio 2013\Projects\Wafers_cookies\Wafers_cookies\bin\Debug\Wafers_cookies.exe.config
+c:\users\i.shvykin\documents\visual studio 2013\Projects\Wafers_cookies\Wafers_cookies\bin\Debug\Wafers_cookies.exe
+c:\users\i.shvykin\documents\visual studio 2013\Projects\Wafers_cookies\Wafers_cookies\bin\Debug\Wafers_cookies.pdb
+c:\users\i.shvykin\documents\visual studio 2013\Projects\Wafers_cookies\Wafers_cookies\obj\Debug\Wafers_cookies.csprojResolveAssemblyReference.cache
+c:\users\i.shvykin\documents\visual studio 2013\Projects\Wafers_cookies\Wafers_cookies\obj\Debug\Wafers_cookies.exe
+c:\users\i.shvykin\documents\visual studio 2013\Projects\Wafers_cookies\Wafers_cookies\obj\Debug\Wafers_cookies.pdb
